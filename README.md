@@ -1,16 +1,7 @@
-# sf25-management-app
+# Tauri + React + Typescript
 
-## techs
-- Tauri framework
-- React lib
-- TypeScript lang
-- Rust lang
-- rustgit lib
-- react.Bootstrapt lib
-- Zod lib
+This template should help get you started developing with Tauri, React and Typescript in Vite.
 
-## release
-This App have not released. Please wait for developing.
+## Recommended IDE Setup
 
-## purpose
-This App enables non-engeneers to manage all information services in the SF, school festival with comfort.
+- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
